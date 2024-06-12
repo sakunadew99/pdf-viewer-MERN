@@ -1,0 +1,4 @@
+{"level":"info","message":"::1 - - [12/Jun/2024:10:53:36 +0000] \"GET /api/pdfs HTTP/1.1\" 200 332 \"-\" \"PostmanRuntime/7.39.0\"\n"}
+{"level":"info","message":"::1 - - [12/Jun/2024:10:54:08 +0000] \"POST /api/pdfs HTTP/1.1\" 500 1271 \"-\" \"PostmanRuntime/7.39.0\"\n"}
+{"level":"info","message":"::1 - - [12/Jun/2024:10:54:44 +0000] \"GET /api/pdfs/66697b450682aca5018dcbb1 HTTP/1.1\" 200 145107 \"-\" \"PostmanRuntime/7.39.0\"\n"}
+{"level":"info","message":"::1 - - [12/Jun/2024:10:54:51 +0000] \"POST /api/auth/login HTTP/1.1\" 200 265 \"-\" \"PostmanRuntime/7.39.0\"\n"}
