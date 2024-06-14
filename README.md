@@ -2,13 +2,9 @@
 
 pdf viewer using MERN
 
-# Real-Time-Chat-Application
-
-Real Time Chat Application Using Socket.io
-
 Setup Instructions
 
-1. Clone the Repository : https://github.com/sakunadew99/Real-Time-Chat-Application
+1. Clone the Repository : https://github.com/sakunadew99/pdf-viewer-MERN
 
 2. Install Dependencies:
    Navigate to the 'backend' directory and run:
